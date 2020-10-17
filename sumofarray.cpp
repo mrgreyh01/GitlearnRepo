@@ -7,7 +7,7 @@ int main()
     int arr2[5];
     int arr3[5];
     int i=0;
-    cout<<"Enter the numbers for the arr1 : ";
+    cout<<"Enter the numbers for the arr1 & arr2: "; 
     for(i=0;i<5;i++)
     {
                cin>>arr1[i];
