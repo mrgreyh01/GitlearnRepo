@@ -23,6 +23,7 @@ int main()
         arr3[i]=arr1[i]+arr2[i];
         cout<<"Sum of the arr1 & arr2 : "<<arr3[i]<<endl;
     }
+    cout<<"Program is ended!";
     
     return 0;
 }
