@@ -24,6 +24,8 @@ int main()
         cout<<"Sum of the arr1 & arr2 : "<<arr3[i]<<endl;
     }
     cout<<"Program is ended!";
+    cout<<"Program is finally ended!";
+    cout<<"Ended";
     
     return 0;
 }
